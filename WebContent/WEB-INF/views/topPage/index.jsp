@@ -2,6 +2,8 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:import url="../layout/app.jsp">
     <c:param name="content">
+        <div id="pagination">
+        </div>
         <h2>日報管理システムへようこそ</h2>
     </c:param>
 </c:import>
